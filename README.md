@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Aditya Chauhan! 👋
 
-<!--
-**Aditya01-commit/Aditya01-commit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student building strong foundations in Linux, Git, and Python.
 
-Here are some ideas to get you started:
+🎓 About Me
+🏫 B.Tech CSE student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+🌱 Currently learning: Linux shell scripting, Git/GitHub workflows, Python
+🎯 Interested in: AI-ML / Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+Category	Technologies
+Languages	Python (Beginner), Bash / Shell Scripting
+Tools	Git, GitHub, VS Code, Linux Terminal, Postman
+Concepts	File Systems, Process Management, REST APIs, Markdown
+
+📂 Featured Projects
+CS- Fundamental Git workflows, API interaction, and Markdown documentation
+
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/aditya-chauhan-956337431?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Email: Adityachauhan3298@gmail.com
